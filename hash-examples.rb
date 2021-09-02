@@ -15,3 +15,11 @@ animal = {
   "category" => ["vertibrate", "mammal", "equine"],
   "predators" => ["alligators","lions","cheetahs"]
 }
+
+customer = {
+  "uuid" => 109513948723,
+  "name" => "John Doe",
+  "phone_number" => "000-111-2222",
+  "open_tickets" => nil,
+  "last_invoice" => 46.98
+}

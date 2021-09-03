@@ -1,3 +1,4 @@
+#create a car object
 car = {
   "make" => "Nissan",
   "model" => "Versa",
@@ -10,12 +11,14 @@ car = {
   "name" => "Fancy Francie"
 }
 
+#create an animal object
 animal = {
   "name" => "zebra",
   "category" => ["vertibrate", "mammal", "equine"],
   "predators" => ["alligators","lions","cheetahs"]
 }
 
+#create a customer object
 customer = {
   "uuid" => 109513948723,
   "name" => "John Doe",
